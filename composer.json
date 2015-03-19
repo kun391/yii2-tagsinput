@@ -1,0 +1,9 @@
+{
+    "name": "kun391/yii2-tagsinput",
+    "description": "The widget used to render input tagable",
+    "authors": [{
+        "name": "Kun",
+        "email": "nguyentruongthanh.dn@gmail.com"
+    }],
+    "require": {}
+}
