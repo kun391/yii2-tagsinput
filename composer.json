@@ -1,14 +1,17 @@
 {
     "name": "kun391/yii2-tagsinput",
+    "versions": "1.0",
     "description": "The widget used to render input tagable",
     "authors": [{
         "name": "Kun",
         "email": "nguyentruongthanh.dn@gmail.com"
     }],
-    "require": {},
     "autoload": {
         "psr-4": {
             "kun391\\tagsinputs\\": ""
         }
     },
+    "require": {
+        "php": ">=5.4.0",
+    }
 }
