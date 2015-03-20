@@ -5,5 +5,10 @@
         "name": "Kun",
         "email": "nguyentruongthanh.dn@gmail.com"
     }],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kun391\\tagsinputs\\": ""
+        }
+    },
 }
