@@ -8,7 +8,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "kun391\\tagsinput": "/"
+            "kun391\\tagsinput\\": "/"
         }
     }
 }
