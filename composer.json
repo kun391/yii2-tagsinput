@@ -6,6 +6,11 @@
         "name": "Kun",
         "email": "nguyentruongthanh.dn@gmail.com"
     }],
+    "autoload": {
+        "psr-4": {
+            "kun391\\tagsinputs\\": ""
+        }
+    },
     "require": {
         "php": ">=5.4.0",
     }
