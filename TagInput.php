@@ -13,7 +13,6 @@ use Yii;
 use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
 use yii\base\InvalidConfigException;
-use kartik\base\Config;
 
 /**
  *

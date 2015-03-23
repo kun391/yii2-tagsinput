@@ -10,5 +10,8 @@
         "psr-4": {
             "kun391\\tagsinput\\": "/"
         }
+    },
+    "require": {
+        "kartik-v/yii2-krajee-base": "dev-master"
     }
 }
