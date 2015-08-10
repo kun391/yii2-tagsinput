@@ -19,7 +19,12 @@ use Yii;
  */
 class TagInputAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '';
+    public function init()
+    {
+        if (!$this->sourcePath) {
+            $this->sourcePath  = dirname(__FILE__) . "/assets";
+        }
+    }
 
     public $css = [
         'css/bootstrap-tagsinput.css',

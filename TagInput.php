@@ -59,6 +59,7 @@ class TagInput extends \kartik\base\InputWidget
     {
         $view = $this->getView();
         TagInputAsset::register($view);
+
         $this->registerPlugin('tagsinput');
     }
 }
