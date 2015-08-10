@@ -7,7 +7,7 @@
         "email": "nguyentruongthanh.dn@gmail.com"
     }],
     "require": {
-        "kartik-v/yii2-krajee-base": "dev-master"
+        "kartik-v/yii2-krajee-base": "*"
     },
     "autoload": {
         "psr-4": {
